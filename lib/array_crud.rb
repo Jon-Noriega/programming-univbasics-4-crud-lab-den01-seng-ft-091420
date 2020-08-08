@@ -1,6 +1,7 @@
 def create_an_empty_array
   empty_array = []
 end
+
   array = ["Sep","Oct","Nov","Dec"]
 def create_an_array
   
