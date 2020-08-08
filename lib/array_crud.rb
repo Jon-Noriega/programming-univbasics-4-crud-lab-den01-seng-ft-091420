@@ -3,11 +3,11 @@ def create_an_empty_array
 end 
   
 def create_an_array
-  array = ["Sep","Oct","Nov","Dec"]
+  new_array = ["Sep","Oct","Nov","Dec"]
 end
 
 def add_element_to_end_of_array(array, element)
-  array.push("Jan")
+  new_array.push("Jan")
 end
 
 def add_element_to_start_of_array(array, element)
