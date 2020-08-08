@@ -1,10 +1,9 @@
 def create_an_empty_array
   empty_array = []
-end
-
-  array = ["Sep","Oct","Nov","Dec"]
-def create_an_array
+end 
   
+def create_an_array
+  array = ["Sep","Oct","Nov","Dec"]
 end
 
 def add_element_to_end_of_array(array, element)
